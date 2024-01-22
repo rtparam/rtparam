@@ -1,5 +1,5 @@
 -    I'm a physics grad student at Uni Bonn.
--    This contains most of my codes from school work/other projects I've done (with a little context)
+-    This contains most of my school work/other projects I've done.
 -    My primary interests are in complex systems and nonlinear dynamics but here you'll find projects also in fields like particle physics, quantum computing, computational neuroscience, astronomy, etc. 
 -    Contact: aarathiparameswaran@gmail.com
 
